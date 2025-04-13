@@ -1,0 +1,38 @@
+[
+  {
+    "match": "Real Madrid vs Barcelona",
+    "cotes": {
+      "1xBet": {
+        "1": 2.10,
+        "N": 3.30,
+        "2": 3.20
+      },
+      "Betclic": {
+        "1": 2.00,
+        "N": 3.40,
+        "2": 3.10
+      }
+    },
+    "arbitrage": true,
+    "profit": "1.2%",
+    "last_update": "2025-04-13T15:30:00Z"
+  },
+  {
+    "match": "Man City vs Liverpool",
+    "cotes": {
+      "1xBet": {
+        "1": 1.95,
+        "N": 3.20,
+        "2": 3.25
+      },
+      "Betclic": {
+        "1": 1.98,
+        "N": 3.15,
+        "2": 3.30
+      }
+    },
+    "arbitrage": false,
+    "profit": "0%",
+    "last_update": "2025-04-13T15:30:00Z"
+  }
+]
